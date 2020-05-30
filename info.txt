@@ -1,0 +1,10 @@
+#COLORS
+
+yellow - #ffde00
+dark blue - #49495d
+dark gray - #333
+white - #fff
+
+#FONTS
+
+VARELA
